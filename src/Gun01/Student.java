@@ -5,5 +5,7 @@ public class Student {
         System.out.println("26 Ocak Saat 19.20");
 
         System.out.println("Hava akşama doğru soğudu");
+
+        System.out.println("Kış gelmeye başladı");
     }
 }

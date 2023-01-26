@@ -7,5 +7,7 @@ public class Student {
         System.out.println("Hava akşama doğru soğudu");
 
         System.out.println("Kış gelmeye başladı");
+
+        System.out.println("bu proje bitti");
     }
 }
